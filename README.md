@@ -10,8 +10,9 @@
 
 
 ## 💫 About Me:
-Data engineer with experience designing end-to-end data pipelines and analytics layers on modern lakehouse platforms.  
-I focus on building maintainable, production-ready systems that support real business use cases.
+Experienced Data Engineer
+
+Tool agnostic, outcome obssesed! 
 
 
 
