@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me:
-Experienced Data Engineer
+ Data Engineer
 
 Tool agnostic, outcome obssesed! 
 
@@ -23,11 +23,6 @@ Tool agnostic, outcome obssesed!
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
 <code><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"/></code>
 
-## 📌 Featured Projects
-
-- **Airline Data Pipeline**  
-  End-to-end lakehouse pipeline using Databricks + dbt with incremental loads and analytics-ready models.  
-  → https://github.com/aileenmolina/Airline_Data_Pipeline.git  
 
 ## 📜 Licenses & Certifications
 
